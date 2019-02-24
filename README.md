@@ -1,4 +1,4 @@
-# -Movie-Genres-Classification-from-their-Poster-Image-using-CNNs
+# Movie-Genres-Classification-from-their-Poster-Image-using-CNNs
 
 ## Introduction
 ### Problem Description
