@@ -6,7 +6,8 @@
 This project has the aim to achieve movie genre classification based only on movie poster images.
 For movie viewers, movie posters are one of the first impressions used to get an idea about the movie content and its genre. Humans can get an idea based on things like color, objects, expressions on the faces of actors etc to quickly determine the genre (horror, comedy, animation etc).
 If humans are more or less able to predict genre of a movie only giving a look at its poster, then we can assume that the poster possesses some characteristics which could be utilized in machine learning algorithms to predict its genre.
-Proposed Approach
+
+### Proposed Approach
 
 In order to do that a Deep Neural Network (Convolutional Neural Network) is constructed to classify a given movie poster image into genres. Since a movie may belong to multiple genres, this is a multi-label image classication problem.
 
