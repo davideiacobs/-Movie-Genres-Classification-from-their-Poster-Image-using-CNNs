@@ -15,3 +15,8 @@ First of all, we use an online available IMDB dataset (source: https://www.kaggl
 Using the IMDB link of each movie (available in this dataset) we use a Web Scraping approach in order to retrieve its poster image from the IMDB movie page and save it locally. Once this is done, we can finally construct our Convolutional Neural Network in order to classify movie genre basing on poster characteristics.
 
 Note: since even a human can easily make mistakes in this task, our initial goal is to recognize correctly at least half of the movies.
+
+(sources and related links: 
+https://www.depends-on-the-definition.com/classifying-genres-of-movies-by-looking-at-the-poster-a-neural-approach/
+https://www.kaggle.com/neha1703/movie-genre-from-its-poster
+https://towardsdatascience.com/building-a-convolutional-neural-network-cnn-in-keras-329fbbadc5f5)
